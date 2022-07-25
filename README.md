@@ -1,6 +1,7 @@
-# helloworld
+# Perhitungan luas Bangun Datar
 
-A new Flutter project.
+Rangga alrasya NA 
+Absen 31 11 PPLG 2
 
 ## Getting Started
 
